@@ -102,3 +102,4 @@ Left can be Right,Middle
             {
                 std::cout<<event.mouseMove.x<<" "<<event.mouseMove.y;
             }
+    https://github.com/user-attachments/assets/8d5770cc-2c0e-44b0-9608-268f4c7f42e3
