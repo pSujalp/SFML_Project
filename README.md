@@ -1,5 +1,8 @@
 # SFML_Project
 SFML project made on C++ and sfml framework
+
+
+![Screenshot at 2024-07-12 05-25-57](https://github.com/user-attachments/assets/737b24ea-8374-48d1-bc99-0e1b67b78c4f)
 # Compling the project files 
 
  `g++ -c main.cpp`
