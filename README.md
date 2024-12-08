@@ -1,6 +1,6 @@
 # SFML_Project
 
-it took 1 week to make this small project 
+It took 1 week to make this small project 
 SFML project made on C++ and sfml framework
 
 
